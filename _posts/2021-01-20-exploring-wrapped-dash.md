@@ -6,7 +6,7 @@ excerpt: Creating a wrapped Dash is not done overnight, but it seems possible fr
 ---
 The rise of DeFi, decentralized exchanges, wrapped assets, and increasing interoperability between different protocols brought the Blockchain space closer together in 2020. With Dash Platform coming up, the Masternode network, and a fantastic user base, Dash can profit from these new trends and, vice versa; the Blockchain space can benefit from Dash. An essential first step in this direction is creating a wrapped version of Dash, practically a copy of Dash that can be used on another Blockchain such as Ethereum. This wrap opens a whole new world of use cases, potential users, and partnerships. Dash Incubator is currently exploring the technical feasibility of creating a wrapped version of Dash and the business potential it creates.
 
-!["1960s Advertising - Magazine Ad - Handi Wrap (USA)" by ChowKaiDeng](/assets/image/1960s_Advertising_Magazine_Ad_Handi Wrap_USA.jpg)
+!["1960s Advertising - Magazine Ad - Handi Wrap (USA)" by ChowKaiDeng](/assets/image/1960s_Advertising_Magazine_Ad_Handi_Wrap_USA.jpg)
 
 #A shift towards a decentralized world of finance
 
@@ -29,7 +29,7 @@ To receive those fees, users have to provide liquidity to different pairs in a l
 
 The fees generated in those pools are significant. You can find current stats on [Uniswap](https://info.uniswap.org/pairs). For example, on January 12, 2021, the pair WBTC-ETH generated over 170.000 USD in fees within 24 hours, the pair USDC-ETH generated almost 589.000 USD in the same period. Based on the number of funds provided, users share these fees. This example is based on a total pool size of 228 million for WBTC-ETH and 223 million USD for USDC-ETH.
 
-![Screenshot of Uniswap Info, 12.1.2021](Uniswap_fees_Jan_12_2021.jpg)
+![Screenshot of Uniswap Info, 12.1.2021](/assets/image/Uniswap_fees_Jan_12_2021.jpg)
 
 The promise of high fees on DEX is undoubtedly one factor why many funds are moving on Ethereum-based DEX, but the financial incentives for users go even beyond that. Why? Because in return for providing assets into a liquidity pool, users receive a specific pool token. In the case of Uniswap, this usually is a token with a cryptic name, ending with UNI-V2.
 
