@@ -8,7 +8,7 @@ The rise of DeFi, decentralized exchanges, wrapped assets, and increasing intero
 
 !["1960s Advertising - Magazine Ad - Handi Wrap (USA)" by ChowKaiDeng](/assets/image/1960s_Advertising_Magazine_Ad_Handi_Wrap_USA.jpg)
 
-# A shift towards a decentralized world of finance
+## A shift towards a decentralized world of finance
 
 Decentralized finance (DeFi) has been taking the Blockchain space by storm, promising a new form of financial infrastructure based on free-to-use or plug and play "money legos" that serve as an alternative to the middle-men based legacy banking and financial system.
 It is no surprise that DeFi applications and services have attracted massive investments as new decentralized business models are booming, and usage is increasing rapidly. One indicator here is the total value locked ([TVL](https://defipulse.com/)) in DeFi smart contracts. It has risen from less than 700 million USD in January 2020 to over 23 billion USD in January 2021.
@@ -19,7 +19,7 @@ With all these developments, it is fair to say that the crypto space has made a 
 
 But as most of these applications are built on Ethereum, Dash has not been part of it. While other assets can easily be swapped in a decentralized manner, going from Dash to ETH still requires a third party such as a centralized exchange. An essential requirement to change this is finding a way to list Dash at a decentralized exchange. To do this, Dash would require a wrapped asset, essentially a copy of Dash that has the same value as the original and is usable on another Blockchain, such as Ethereum.
 
-# The age of decentralized exchanges and crypto yields
+## The age of decentralized exchanges and crypto yields
 
 Among all those many decentralized projects and business models, decentralized exchanges are a crucial enabler. They have been around for many years, but since last year have seen a massive increase in users and transactions. A DEX allows users to switch assets without using any centralized third parties easily. A User simply connects and transfers assets via a Web 3 wallet such as Metamask.
 
@@ -41,7 +41,7 @@ So far, we have seen many similar incentive programs with new ideas coming up re
 
 As seen in those examples, the DeFi movement has created many new ideas that drive projects, users, and adoption. Most of these projects happen on Ethereum, but other assets, such as Bitcoin, are already and massively used on Ethereum in the form of a wrapped copy, e.g., WBTC. So, what are those wrapped assets precisely, and what options exist to create them?
 
-# Different ways to wrap crypto assets
+## Different ways to wrap crypto assets
 
 "A wrapped token is an ERC-20 token with a value identical to another asset that it represents, either through a smart contract or by being backed one-to-one with the underlying asset", according to a definition from [Cointelegraph](https://coinmarketcap.com/alexandria/article/what-is-wrapped-bitcoin).
 
@@ -57,7 +57,7 @@ So far, WBTC has a much larger market capitalization with almost 111,000 BTC wra
 For Dash, both ways are possible and worth exploring. The consortia based custodial solution requires partnerships, whereas a non-custodial solution involves development.
 Moreover, the custodial option requires most likely larger investments. The latter seems to have more flexibility and control. It can be built on Ren and similar models such as [tBTC](https://defipulse.com/blog/what-is-tbtc/) based on a randomly selected group of signers. Dash Incubator is currently exploring the technical feasibility of different options.
 
-# Potential for Dash and the way forward
+## Potential for Dash and the way forward
 
 Creating a wrapped Dash is not done overnight, but it seems possible from a technical perspective and promises great potential from a business standpoint. It allows Dash to enter new markets and offers unique opportunities for users:
 
