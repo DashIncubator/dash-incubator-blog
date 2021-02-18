@@ -4,7 +4,7 @@ author: Andy Freer
 title: Dash on DeFi DEX Proposal
 excerpt: In the first project of its kind for the Incubator, we’re excited to be supporting Dash Next in bringing DeFi to Dash. 
 ---
-I’d like to highlight a new type of project we’re taking on at [Dash Incubator](https://dashincubator.app/) where we work with a partner within Dash to sponsor a [proposal to the Dash governance system](https://www.dashcentral.org/p/) to fund the work we want to do together.
+I’d like to highlight a new type of project we’re taking on at [Dash Incubator](https://dashincubator.app/) where we work with a partner within Dash to sponsor a [proposal to the Dash governance system](https://www.dashcentral.org/p/renDash-integration-liquidity-mining) to fund the work we want to do together.
 
 Recently we’ve been working on [DeFi enabling Dash](https://trello.com/c/rSjuWCp3/103-wrapped-dash-on-ethereum) through the establishment of a wrapped Dash asset that will enable Dash to be traded on DEXes such as [Uniswap](https://uniswap.org/) with [Dash NEXT](https://dashnext.org/) and an Ethereum developer (@raf on the [Dash Dev Discord](https://discord.gg/mU79ZWx)).
 
@@ -18,7 +18,7 @@ As we’ve already been working with Dash NEXT on this project who’ve brought 
 
 This is the first project of its kind for the Incubator so we’re excited to try it out and put this forward to the network to help us get the first DeFi features for Dash.
 
-Please checkout the new [proposal for Dash on DeFi DEX](https://www.dashcentral.org/p/) and vote / leave feedback on that and our new approach.
+Please checkout the new [proposal for Dash on DeFi DEX](https://www.dashcentral.org/p/renDash-integration-liquidity-mining) and vote / leave feedback on that and our new approach.
 
 
 Thanks<br>
