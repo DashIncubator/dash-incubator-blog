@@ -6,7 +6,7 @@ excerpt: In the first project of its kind for the Incubator, we’re excited to 
 ---
 I’d like to highlight a new type of project we’re taking on at [Dash Incubator](https://dashincubator.app/) where we work with a partner within Dash to sponsor a [proposal to the Dash governance system](https://www.dashcentral.org/p/renDash-integration-liquidity-mining) to fund the work we want to do together.
 
-Recently we’ve been working on [DeFi enabling Dash](https://trello.com/c/rSjuWCp3/103-wrapped-dash-on-ethereum) through the establishment of a wrapped Dash asset that will enable Dash to be traded on DEXes such as [Uniswap](https://uniswap.org/) with [Dash NEXT](https://dashnext.org/) and an Ethereum developer (@raf on the [Dash Dev Discord](https://discord.gg/mU79ZWx)).
+Recently we’ve been working on [DeFi enabling Dash](https://trello.com/c/rSjuWCp3/103-wrapped-dash-on-ethereum) through the establishment of a wrapped Dash asset that will enable Dash to be traded on DEXes such as [Uniswap](https://uniswap.org/), in collaboration [Dash NEXT](https://dashnext.org/) and an Ethereum developer (@raf on the [Dash Dev Discord](https://discord.gg/mU79ZWx)).
 
 We’ve got to the point now where we’re ready to implement but the work involves conversion and custody of fiat funds (USD 50k) to pay for the required yield farming program to kickstart the associated liquidity pool, which is outside the budget & scope of a purely Dash-denominated development fund such as the Incubator.
 
