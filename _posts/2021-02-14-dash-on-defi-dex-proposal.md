@@ -8,9 +8,9 @@ I’d like to highlight a new type of project we’re taking on at [Dash Incubat
 
 Recently we’ve been working on [DeFi enabling Dash](https://trello.com/c/rSjuWCp3/103-wrapped-dash-on-ethereum) through the establishment of a wrapped Dash asset that will enable Dash to be traded on DEXes such as [Uniswap](https://uniswap.org/) with [Dash NEXT](https://dashnext.org/) and an Ethereum developer (@raf on the [Dash Dev Discord](https://discord.gg/mU79ZWx)).
 
-We’ve got to the point now where we’re ready to implement but the work involves conversion and custody of fiat funds to pay for the required yield farming program to kickstart the associated liquidity pool, which is outside the scope of a purely Dash-denominated development fund such as the Incubator.
+We’ve got to the point now where we’re ready to implement but the work involves conversion and custody of fiat funds (USD 50k) to pay for the required yield farming program to kickstart the associated liquidity pool, which is outside the budget & scope of a purely Dash-denominated development fund such as the Incubator.
 
-Secondly, the cost of the development involved for the implementation is quite large (USD 50k) and even though DeFi is something we support it’s not strictly within our strategy as this work doesn’t support Dash Platform growth directly (even though there are certainly DeFi use cases on Platform itself).
+Secondly, the cost of the [development involved for the implementation](https://docs.google.com/document/d/18TD4TH7A5JHb_WgeQSgPjCsX2a13v1xN6y0Up-kEAB0/edit) is substantial and even though DeFi is something we support it’s not strictly within our strategy as this work doesn’t support Dash Platform growth directly (even though there are certainly DeFi use cases on Platform itself).
 
 We want the integration project to succeed so how we’ve decided to approach this is we’ve created [a bounty](https://trello.com/c/SNvAnAvk/115-defi-ren-dash-integration) which itself incentivizes both creation of a proposal from the Dash network that raises the required funding and the custody / conversion to fiat by a 3rd party.  Secondly the proposal will build in the funding required to develop the integration which the Incubator will manage.
 
